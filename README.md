@@ -4,7 +4,7 @@ Clona este repo y solicita la asignación de en que carpeta te tocará agregar u
 
 # Carpetas
 
-- Diseño/
+- Disenio/
 - Requerimientos/
 - Documentos/
 - src/
